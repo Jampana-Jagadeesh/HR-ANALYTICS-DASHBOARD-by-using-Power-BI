@@ -30,11 +30,11 @@ If you want to contribute to this project, follow these steps.
 
 ## License
 
-Specify the license under which your project is distributed.
+MIT LICENSE
 
 ## Contact
 
-Include your contact information for inquiries or collaboration.
+191fa06004@gmail.com
 
 ---
 
