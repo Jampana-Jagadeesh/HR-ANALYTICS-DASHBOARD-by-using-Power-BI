@@ -11,12 +11,13 @@ Check out our Power BI dashboard to visualize the data:
 [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWEyNWEzNGUtNTBiMi00NGI5LTgzMmYtYTdmZjg0MGUxMzAxIiwidCI6IjY5ZGJjNDU0LTgwZmEtNDgyZS1iODUxLTdjYTczOWFmYWVjYSJ9)
 
 ## Installation
-
-Install Power BI Desktop
-
-## Usage
-
-Go through the provided link
+1. Download Power BI Desktop:
+  Visit the official Power BI Desktop download page: Power BI Desktop Download.
+  Click on the "Download free" button.
+2.Choose the Version:
+  You might be presented with options to download either the 32-bit or 64-bit version. Choose the appropriate version based on your system architecture.
+3.Run the Installer:
+Once the installer is downloaded, run the executable file.
 
 ## Contributing
 
